@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriggerReportTestCsharp", "TriggerReportTestCsharp\TriggerReportTestCsharp.csproj", "{B8272265-2D74-4289-A353-9A0EA5C45B8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpOTELConsoleApp", "CsharpOTELConsoleApp\CsharpOTELConsoleApp.csproj", "{B8272265-2D74-4289-A353-9A0EA5C45B8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
